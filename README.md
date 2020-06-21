@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages it feels nice to there
+## Welcome to GitHub Pages it feels nice to be there
 hello coursera 
 hello world
 
