@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages it feels nice to be there
+## Welcome to GitHub Pages it feels nice to be there 
 hello coursera 
 hello world
-
+I am ISA CHIDI AM VERY HAPPY TO BE USING GITHUB
 You can use the [editor on GitHub](https://github.com/isachidi/coursera-ch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
